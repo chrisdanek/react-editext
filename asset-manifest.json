@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-editext/static/css/main.df87aec3.chunk.css",
-    "main.js": "/react-editext/static/js/main.4cc788cf.chunk.js",
-    "main.js.map": "/react-editext/static/js/main.4cc788cf.chunk.js.map",
+    "main.css": "/react-editext/static/css/main.c35a4188.chunk.css",
+    "main.js": "/react-editext/static/js/main.6949d1ce.chunk.js",
+    "main.js.map": "/react-editext/static/js/main.6949d1ce.chunk.js.map",
     "runtime-main.js": "/react-editext/static/js/runtime-main.410a7370.js",
     "runtime-main.js.map": "/react-editext/static/js/runtime-main.410a7370.js.map",
     "static/js/2.2cf4320c.chunk.js": "/react-editext/static/js/2.2cf4320c.chunk.js",
     "static/js/2.2cf4320c.chunk.js.map": "/react-editext/static/js/2.2cf4320c.chunk.js.map",
     "index.html": "/react-editext/index.html",
-    "static/css/main.df87aec3.chunk.css.map": "/react-editext/static/css/main.df87aec3.chunk.css.map",
+    "static/css/main.c35a4188.chunk.css.map": "/react-editext/static/css/main.c35a4188.chunk.css.map",
     "static/js/2.2cf4320c.chunk.js.LICENSE.txt": "/react-editext/static/js/2.2cf4320c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.410a7370.js",
     "static/js/2.2cf4320c.chunk.js",
-    "static/css/main.df87aec3.chunk.css",
-    "static/js/main.4cc788cf.chunk.js"
+    "static/css/main.c35a4188.chunk.css",
+    "static/js/main.6949d1ce.chunk.js"
   ]
 }
